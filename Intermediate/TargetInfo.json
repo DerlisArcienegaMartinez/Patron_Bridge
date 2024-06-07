@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Patron_Bridge",
+			"Path": "C:\\Users\\LENOVO\\Desktop\\dkam\\Patron_Bridge\\Source\\Patron_Bridge.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Patron_BridgeEditor",
+			"Path": "C:\\Users\\LENOVO\\Desktop\\dkam\\Patron_Bridge\\Source\\Patron_BridgeEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

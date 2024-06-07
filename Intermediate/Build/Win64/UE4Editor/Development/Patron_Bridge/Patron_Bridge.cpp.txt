@@ -1,0 +1,2 @@
+C:\Users\LENOVO\Desktop\dkam\Patron_Bridge\Intermediate\Build\Win64\UE4Editor\Development\Patron_Bridge\Definitions.Patron_Bridge.h
+C:\Users\LENOVO\Desktop\dkam\Patron_Bridge\Source\Patron_Bridge\Patron_Bridge.h
