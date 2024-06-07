@@ -13,5 +13,5 @@ ANaveEnemigaGuerrera::ANaveEnemigaGuerrera()
 	mallaNaveEnemiga->SetStaticMesh(malla.Object);
 
 	// Establecer comportamiento de movimiento predeterminado
-	Movimiento = CreateDefaultSubobject<UMovimientoAleatorio>(TEXT("MovimientoAleatorio"));
+	Movimiento = CreateDefaultSubobject<UMovimientoZigZag>(TEXT("MovimientoAleatorio"));
 }

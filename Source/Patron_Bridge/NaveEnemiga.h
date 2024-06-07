@@ -15,19 +15,6 @@ class PATRON_BRIDGE_API ANaveEnemiga : public AActor
 public:
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = Projectile, meta = (AllowPrivateAccess = "true"))
 		UStaticMeshComponent* mallaNaveEnemiga;
-
-//protected:
-//	float velocidad;
-//	FVector direccion;
-//
-//public:
-//	// Metodos accesores
-//	FORCEINLINE float GetVelocidad() const { return velocidad; }
-//	FORCEINLINE FVector GetDireccion() const { return direccion; }
-//
-//	FORCEINLINE void SetVelocidad(float _velocidad) { velocidad = _velocidad; }
-//	FORCEINLINE void SetDireccion(FVector Direccion) { direccion = Direccion; }
-
 	
 public:	
 	// Sets default values for this actor's properties
