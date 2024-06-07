@@ -13,28 +13,28 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define PATRON_BRIDGE_NaveEnemiga_generated_h
 
-#define Patron_Bridge_Source_Patron_Bridge_NaveEnemiga_h_12_SPARSE_DATA
-#define Patron_Bridge_Source_Patron_Bridge_NaveEnemiga_h_12_RPC_WRAPPERS
-#define Patron_Bridge_Source_Patron_Bridge_NaveEnemiga_h_12_RPC_WRAPPERS_NO_PURE_DECLS
-#define Patron_Bridge_Source_Patron_Bridge_NaveEnemiga_h_12_INCLASS_NO_PURE_DECLS \
+#define Patron_Bridge_Source_Patron_Bridge_NaveEnemiga_h_13_SPARSE_DATA
+#define Patron_Bridge_Source_Patron_Bridge_NaveEnemiga_h_13_RPC_WRAPPERS
+#define Patron_Bridge_Source_Patron_Bridge_NaveEnemiga_h_13_RPC_WRAPPERS_NO_PURE_DECLS
+#define Patron_Bridge_Source_Patron_Bridge_NaveEnemiga_h_13_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesANaveEnemiga(); \
 	friend struct Z_Construct_UClass_ANaveEnemiga_Statics; \
 public: \
-	DECLARE_CLASS(ANaveEnemiga, AActor, COMPILED_IN_FLAGS(0 | CLASS_Config), CASTCLASS_None, TEXT("/Script/Patron_Bridge"), NO_API) \
+	DECLARE_CLASS(ANaveEnemiga, AActor, COMPILED_IN_FLAGS(CLASS_Abstract | CLASS_Config), CASTCLASS_None, TEXT("/Script/Patron_Bridge"), NO_API) \
 	DECLARE_SERIALIZER(ANaveEnemiga)
 
 
-#define Patron_Bridge_Source_Patron_Bridge_NaveEnemiga_h_12_INCLASS \
+#define Patron_Bridge_Source_Patron_Bridge_NaveEnemiga_h_13_INCLASS \
 private: \
 	static void StaticRegisterNativesANaveEnemiga(); \
 	friend struct Z_Construct_UClass_ANaveEnemiga_Statics; \
 public: \
-	DECLARE_CLASS(ANaveEnemiga, AActor, COMPILED_IN_FLAGS(0 | CLASS_Config), CASTCLASS_None, TEXT("/Script/Patron_Bridge"), NO_API) \
+	DECLARE_CLASS(ANaveEnemiga, AActor, COMPILED_IN_FLAGS(CLASS_Abstract | CLASS_Config), CASTCLASS_None, TEXT("/Script/Patron_Bridge"), NO_API) \
 	DECLARE_SERIALIZER(ANaveEnemiga)
 
 
-#define Patron_Bridge_Source_Patron_Bridge_NaveEnemiga_h_12_STANDARD_CONSTRUCTORS \
+#define Patron_Bridge_Source_Patron_Bridge_NaveEnemiga_h_13_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API ANaveEnemiga(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(ANaveEnemiga) \
@@ -47,7 +47,7 @@ private: \
 public:
 
 
-#define Patron_Bridge_Source_Patron_Bridge_NaveEnemiga_h_12_ENHANCED_CONSTRUCTORS \
+#define Patron_Bridge_Source_Patron_Bridge_NaveEnemiga_h_13_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API ANaveEnemiga(ANaveEnemiga&&); \
@@ -58,28 +58,28 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(ANaveEnemiga); \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(ANaveEnemiga)
 
 
-#define Patron_Bridge_Source_Patron_Bridge_NaveEnemiga_h_12_PRIVATE_PROPERTY_OFFSET
-#define Patron_Bridge_Source_Patron_Bridge_NaveEnemiga_h_9_PROLOG
-#define Patron_Bridge_Source_Patron_Bridge_NaveEnemiga_h_12_GENERATED_BODY_LEGACY \
+#define Patron_Bridge_Source_Patron_Bridge_NaveEnemiga_h_13_PRIVATE_PROPERTY_OFFSET
+#define Patron_Bridge_Source_Patron_Bridge_NaveEnemiga_h_10_PROLOG
+#define Patron_Bridge_Source_Patron_Bridge_NaveEnemiga_h_13_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	Patron_Bridge_Source_Patron_Bridge_NaveEnemiga_h_12_PRIVATE_PROPERTY_OFFSET \
-	Patron_Bridge_Source_Patron_Bridge_NaveEnemiga_h_12_SPARSE_DATA \
-	Patron_Bridge_Source_Patron_Bridge_NaveEnemiga_h_12_RPC_WRAPPERS \
-	Patron_Bridge_Source_Patron_Bridge_NaveEnemiga_h_12_INCLASS \
-	Patron_Bridge_Source_Patron_Bridge_NaveEnemiga_h_12_STANDARD_CONSTRUCTORS \
+	Patron_Bridge_Source_Patron_Bridge_NaveEnemiga_h_13_PRIVATE_PROPERTY_OFFSET \
+	Patron_Bridge_Source_Patron_Bridge_NaveEnemiga_h_13_SPARSE_DATA \
+	Patron_Bridge_Source_Patron_Bridge_NaveEnemiga_h_13_RPC_WRAPPERS \
+	Patron_Bridge_Source_Patron_Bridge_NaveEnemiga_h_13_INCLASS \
+	Patron_Bridge_Source_Patron_Bridge_NaveEnemiga_h_13_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define Patron_Bridge_Source_Patron_Bridge_NaveEnemiga_h_12_GENERATED_BODY \
+#define Patron_Bridge_Source_Patron_Bridge_NaveEnemiga_h_13_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	Patron_Bridge_Source_Patron_Bridge_NaveEnemiga_h_12_PRIVATE_PROPERTY_OFFSET \
-	Patron_Bridge_Source_Patron_Bridge_NaveEnemiga_h_12_SPARSE_DATA \
-	Patron_Bridge_Source_Patron_Bridge_NaveEnemiga_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
-	Patron_Bridge_Source_Patron_Bridge_NaveEnemiga_h_12_INCLASS_NO_PURE_DECLS \
-	Patron_Bridge_Source_Patron_Bridge_NaveEnemiga_h_12_ENHANCED_CONSTRUCTORS \
+	Patron_Bridge_Source_Patron_Bridge_NaveEnemiga_h_13_PRIVATE_PROPERTY_OFFSET \
+	Patron_Bridge_Source_Patron_Bridge_NaveEnemiga_h_13_SPARSE_DATA \
+	Patron_Bridge_Source_Patron_Bridge_NaveEnemiga_h_13_RPC_WRAPPERS_NO_PURE_DECLS \
+	Patron_Bridge_Source_Patron_Bridge_NaveEnemiga_h_13_INCLASS_NO_PURE_DECLS \
+	Patron_Bridge_Source_Patron_Bridge_NaveEnemiga_h_13_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 

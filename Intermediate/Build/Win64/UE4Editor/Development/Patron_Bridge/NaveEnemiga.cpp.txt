@@ -1,3 +1,5 @@
 C:\Users\LENOVO\Desktop\dkam\Patron_Bridge\Intermediate\Build\Win64\UE4Editor\Development\Patron_Bridge\Definitions.Patron_Bridge.h
 C:\Users\LENOVO\Desktop\dkam\Patron_Bridge\Source\Patron_Bridge\NaveEnemiga.h
+C:\Users\LENOVO\Desktop\dkam\Patron_Bridge\Source\Patron_Bridge\ImplementacionMovimiento.h
+C:\Users\LENOVO\Desktop\dkam\Patron_Bridge\Intermediate\Build\Win64\UE4Editor\Inc\Patron_Bridge\ImplementacionMovimiento.generated.h
 C:\Users\LENOVO\Desktop\dkam\Patron_Bridge\Intermediate\Build\Win64\UE4Editor\Inc\Patron_Bridge\NaveEnemiga.generated.h

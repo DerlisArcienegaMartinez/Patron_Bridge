@@ -4,6 +4,10 @@ C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFra
 C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
 C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
 C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\LENOVO\Desktop\dkam\Patron_Bridge\Source\Patron_Bridge\NaveEnemiga.h
+C:\Users\LENOVO\Desktop\dkam\Patron_Bridge\Source\Patron_Bridge\ImplementacionMovimiento.h
+C:\Users\LENOVO\Desktop\dkam\Patron_Bridge\Intermediate\Build\Win64\UE4Editor\Inc\Patron_Bridge\ImplementacionMovimiento.generated.h
+C:\Users\LENOVO\Desktop\dkam\Patron_Bridge\Intermediate\Build\Win64\UE4Editor\Inc\Patron_Bridge\NaveEnemiga.generated.h
 C:\Users\LENOVO\Desktop\dkam\Patron_Bridge\Intermediate\Build\Win64\UE4Editor\Inc\Patron_Bridge\Patron_BridgeGameMode.generated.h
 C:\Users\LENOVO\Desktop\dkam\Patron_Bridge\Source\Patron_Bridge\Patron_BridgePawn.h
 C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
@@ -11,3 +15,18 @@ C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFra
 C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
 C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
 C:\Users\LENOVO\Desktop\dkam\Patron_Bridge\Intermediate\Build\Win64\UE4Editor\Inc\Patron_Bridge\Patron_BridgePawn.generated.h
+C:\Users\LENOVO\Desktop\dkam\Patron_Bridge\Source\Patron_Bridge\NaveEnemigaCaza.h
+C:\Users\LENOVO\Desktop\dkam\Patron_Bridge\Intermediate\Build\Win64\UE4Editor\Inc\Patron_Bridge\NaveEnemigaCaza.generated.h
+C:\Users\LENOVO\Desktop\dkam\Patron_Bridge\Source\Patron_Bridge\NaveEnemigaGuerrera.h
+C:\Users\LENOVO\Desktop\dkam\Patron_Bridge\Intermediate\Build\Win64\UE4Editor\Inc\Patron_Bridge\NaveEnemigaGuerrera.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/CollisionProfile.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CollisionProfile.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetSystemLibrary.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Sound/DialogueTypes.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DialogueTypes.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Kismet\GameplayStaticsTypes.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h

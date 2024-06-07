@@ -13,10 +13,10 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define PATRON_BRIDGE_Patron_BridgeGameMode_generated_h
 
-#define Patron_Bridge_Source_Patron_Bridge_Patron_BridgeGameMode_h_12_SPARSE_DATA
-#define Patron_Bridge_Source_Patron_Bridge_Patron_BridgeGameMode_h_12_RPC_WRAPPERS
-#define Patron_Bridge_Source_Patron_Bridge_Patron_BridgeGameMode_h_12_RPC_WRAPPERS_NO_PURE_DECLS
-#define Patron_Bridge_Source_Patron_Bridge_Patron_BridgeGameMode_h_12_INCLASS_NO_PURE_DECLS \
+#define Patron_Bridge_Source_Patron_Bridge_Patron_BridgeGameMode_h_13_SPARSE_DATA
+#define Patron_Bridge_Source_Patron_Bridge_Patron_BridgeGameMode_h_13_RPC_WRAPPERS
+#define Patron_Bridge_Source_Patron_Bridge_Patron_BridgeGameMode_h_13_RPC_WRAPPERS_NO_PURE_DECLS
+#define Patron_Bridge_Source_Patron_Bridge_Patron_BridgeGameMode_h_13_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAPatron_BridgeGameMode(); \
 	friend struct Z_Construct_UClass_APatron_BridgeGameMode_Statics; \
@@ -25,7 +25,7 @@ public: \
 	DECLARE_SERIALIZER(APatron_BridgeGameMode)
 
 
-#define Patron_Bridge_Source_Patron_Bridge_Patron_BridgeGameMode_h_12_INCLASS \
+#define Patron_Bridge_Source_Patron_Bridge_Patron_BridgeGameMode_h_13_INCLASS \
 private: \
 	static void StaticRegisterNativesAPatron_BridgeGameMode(); \
 	friend struct Z_Construct_UClass_APatron_BridgeGameMode_Statics; \
@@ -34,7 +34,7 @@ public: \
 	DECLARE_SERIALIZER(APatron_BridgeGameMode)
 
 
-#define Patron_Bridge_Source_Patron_Bridge_Patron_BridgeGameMode_h_12_STANDARD_CONSTRUCTORS \
+#define Patron_Bridge_Source_Patron_Bridge_Patron_BridgeGameMode_h_13_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	PATRON_BRIDGE_API APatron_BridgeGameMode(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(APatron_BridgeGameMode) \
@@ -47,7 +47,7 @@ private: \
 public:
 
 
-#define Patron_Bridge_Source_Patron_Bridge_Patron_BridgeGameMode_h_12_ENHANCED_CONSTRUCTORS \
+#define Patron_Bridge_Source_Patron_Bridge_Patron_BridgeGameMode_h_13_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	PATRON_BRIDGE_API APatron_BridgeGameMode(APatron_BridgeGameMode&&); \
@@ -58,28 +58,32 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(APatron_BridgeGameMode); \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(APatron_BridgeGameMode)
 
 
-#define Patron_Bridge_Source_Patron_Bridge_Patron_BridgeGameMode_h_12_PRIVATE_PROPERTY_OFFSET
-#define Patron_Bridge_Source_Patron_Bridge_Patron_BridgeGameMode_h_9_PROLOG
-#define Patron_Bridge_Source_Patron_Bridge_Patron_BridgeGameMode_h_12_GENERATED_BODY_LEGACY \
+#define Patron_Bridge_Source_Patron_Bridge_Patron_BridgeGameMode_h_13_PRIVATE_PROPERTY_OFFSET \
+	FORCEINLINE static uint32 __PPO__NaveEnemigaCazaClass() { return STRUCT_OFFSET(APatron_BridgeGameMode, NaveEnemigaCazaClass); } \
+	FORCEINLINE static uint32 __PPO__NaveEnemigaGuerreraClass() { return STRUCT_OFFSET(APatron_BridgeGameMode, NaveEnemigaGuerreraClass); }
+
+
+#define Patron_Bridge_Source_Patron_Bridge_Patron_BridgeGameMode_h_10_PROLOG
+#define Patron_Bridge_Source_Patron_Bridge_Patron_BridgeGameMode_h_13_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	Patron_Bridge_Source_Patron_Bridge_Patron_BridgeGameMode_h_12_PRIVATE_PROPERTY_OFFSET \
-	Patron_Bridge_Source_Patron_Bridge_Patron_BridgeGameMode_h_12_SPARSE_DATA \
-	Patron_Bridge_Source_Patron_Bridge_Patron_BridgeGameMode_h_12_RPC_WRAPPERS \
-	Patron_Bridge_Source_Patron_Bridge_Patron_BridgeGameMode_h_12_INCLASS \
-	Patron_Bridge_Source_Patron_Bridge_Patron_BridgeGameMode_h_12_STANDARD_CONSTRUCTORS \
+	Patron_Bridge_Source_Patron_Bridge_Patron_BridgeGameMode_h_13_PRIVATE_PROPERTY_OFFSET \
+	Patron_Bridge_Source_Patron_Bridge_Patron_BridgeGameMode_h_13_SPARSE_DATA \
+	Patron_Bridge_Source_Patron_Bridge_Patron_BridgeGameMode_h_13_RPC_WRAPPERS \
+	Patron_Bridge_Source_Patron_Bridge_Patron_BridgeGameMode_h_13_INCLASS \
+	Patron_Bridge_Source_Patron_Bridge_Patron_BridgeGameMode_h_13_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define Patron_Bridge_Source_Patron_Bridge_Patron_BridgeGameMode_h_12_GENERATED_BODY \
+#define Patron_Bridge_Source_Patron_Bridge_Patron_BridgeGameMode_h_13_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	Patron_Bridge_Source_Patron_Bridge_Patron_BridgeGameMode_h_12_PRIVATE_PROPERTY_OFFSET \
-	Patron_Bridge_Source_Patron_Bridge_Patron_BridgeGameMode_h_12_SPARSE_DATA \
-	Patron_Bridge_Source_Patron_Bridge_Patron_BridgeGameMode_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
-	Patron_Bridge_Source_Patron_Bridge_Patron_BridgeGameMode_h_12_INCLASS_NO_PURE_DECLS \
-	Patron_Bridge_Source_Patron_Bridge_Patron_BridgeGameMode_h_12_ENHANCED_CONSTRUCTORS \
+	Patron_Bridge_Source_Patron_Bridge_Patron_BridgeGameMode_h_13_PRIVATE_PROPERTY_OFFSET \
+	Patron_Bridge_Source_Patron_Bridge_Patron_BridgeGameMode_h_13_SPARSE_DATA \
+	Patron_Bridge_Source_Patron_Bridge_Patron_BridgeGameMode_h_13_RPC_WRAPPERS_NO_PURE_DECLS \
+	Patron_Bridge_Source_Patron_Bridge_Patron_BridgeGameMode_h_13_INCLASS_NO_PURE_DECLS \
+	Patron_Bridge_Source_Patron_Bridge_Patron_BridgeGameMode_h_13_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 

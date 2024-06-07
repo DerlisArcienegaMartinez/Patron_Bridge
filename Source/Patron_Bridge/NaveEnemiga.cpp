@@ -2,6 +2,8 @@
 
 
 #include "NaveEnemiga.h"
+#include "Components/StaticMeshComponent.h"
+#include "UObject/ConstructorHelpers.h"
 
 // Sets default values
 ANaveEnemiga::ANaveEnemiga()
@@ -9,6 +11,9 @@ ANaveEnemiga::ANaveEnemiga()
  	// Set this actor to call Tick() every frame.  You can turn this off to improve performance if you don't need it.
 	PrimaryActorTick.bCanEverTick = true;
 
+	mallaNaveEnemiga = CreateDefaultSubobject<UStaticMeshComponent>(TEXT("ShipMesh")); //Crear el componente de malla
+	mallaNaveEnemiga->SetupAttachment(RootComponent); // configurando el componente mallaNaveEnemiga como un subcomponente 
+	RootComponent = mallaNaveEnemiga; // estableciendo el componente mallaNaveEnemiga como el componente raíz del actor.
 }
 
 // Called when the game starts or when spawned
@@ -22,6 +27,14 @@ void ANaveEnemiga::BeginPlay()
 void ANaveEnemiga::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
+	Mover(DeltaTime);
+}
 
+void ANaveEnemiga::Mover(float DeltaTime)
+{
+	if (Movimiento)
+	{
+		Movimiento->Mover(this);
+	}
 }
 

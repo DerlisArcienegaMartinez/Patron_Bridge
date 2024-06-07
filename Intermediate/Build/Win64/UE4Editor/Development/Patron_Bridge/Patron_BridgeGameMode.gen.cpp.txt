@@ -6,4 +6,8 @@ C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFra
 C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
 C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
 C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\LENOVO\Desktop\dkam\Patron_Bridge\Source\Patron_Bridge\NaveEnemiga.h
+C:\Users\LENOVO\Desktop\dkam\Patron_Bridge\Source\Patron_Bridge\ImplementacionMovimiento.h
+C:\Users\LENOVO\Desktop\dkam\Patron_Bridge\Intermediate\Build\Win64\UE4Editor\Inc\Patron_Bridge\ImplementacionMovimiento.generated.h
+C:\Users\LENOVO\Desktop\dkam\Patron_Bridge\Intermediate\Build\Win64\UE4Editor\Inc\Patron_Bridge\NaveEnemiga.generated.h
 C:\Users\LENOVO\Desktop\dkam\Patron_Bridge\Intermediate\Build\Win64\UE4Editor\Inc\Patron_Bridge\Patron_BridgeGameMode.generated.h
